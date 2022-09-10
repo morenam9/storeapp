@@ -14,7 +14,7 @@ const productos = [
 
     { name: 'AirPods', price: 70, img: '04.jpg', features: ['Batería: 24 hs', 'Info: Inalámbricos'] },
 
-    { name: 'Apple Watch', price: 2000, img: '05.jpg', features: ['Con conexión celular', 'Pantalla siempre activa'] },
+    { name: 'Apple Watch', price: 2000, img: '05.jpg', features: ['C    onexión celular', 'Pantalla Retina'] },
 
     { name: 'Iphone 14 pro', price: 5000, img: '06.jpg', features: ['Memoria: 256 GB', 'RAM: 16GB'] }, 
 ];
